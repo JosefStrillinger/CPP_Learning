@@ -2,6 +2,7 @@
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "*.html": "html",
-        "xutility": "c"
+        "xutility": "c",
+        "iostream": "cpp"
     }
 }
