@@ -1,2 +1,2 @@
 # CPP_Learning
-My Repository for learning c++
+My Repository for learning c/c++
