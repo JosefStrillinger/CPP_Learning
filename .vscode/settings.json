@@ -3,6 +3,8 @@
     "files.associations": {
         "*.html": "html",
         "xutility": "c",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string.h": "c"
     }
 }
